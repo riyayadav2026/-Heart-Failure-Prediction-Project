@@ -3,7 +3,7 @@
 This project is a simple machine learning web app for predicting heart disease using patient health features.
 
 ---
-<img src="image.png" alt="Project Screenshot" width="500">
+<img src="image.png" alt="Project Screenshot" width="800">
 
 ---
 ## Overview
