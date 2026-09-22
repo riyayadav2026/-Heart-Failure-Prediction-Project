@@ -2,6 +2,10 @@
 
 This project is a simple machine learning web app for predicting heart disease using patient health features.
 
+---
+<img src="image.png" alt="Project Screenshot" width="500">
+
+---
 ## Overview
 
 The app loads a trained ML model saved in a joblib file and predicts whether a patient is likely to have heart disease based on input values such as:
